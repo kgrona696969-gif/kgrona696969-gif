@@ -8,7 +8,11 @@ Welcome to my portfolio! Here I demonstrate my practical skills in software test
 - Test Documentation: Test Cases, Checklists, Bug Reports, Test Plans, Traceability Matrix.
 - Tools: Chrome DevTools, Postman (REST API), Jira, Trello, SQL (Basic queries, JOINs).
 
-# Languages: English (B2), Russian, German (B1), Ukrainian.
+# Languages: 
+- English (B2),
+- Russian,
+- Ukrainian,
+- German (B1).
 
 # My Portfolio Projects
 
